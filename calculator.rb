@@ -1,1 +1,2 @@
-# Add your variables here
+# Add your variables 
+first_number = 3
